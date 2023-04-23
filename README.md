@@ -1,5 +1,5 @@
 ### Hello there 👋
-<p align="Center" ><img src="https://giphy.com/embed/3oEduN21VyqC7cwTIs" width ="400px"></p>
+<p align="Center" ><img src="https://raw.githubusercontent.com/Shellinit2/Shellinit2/main/giphy.gif" width ="400px"></p>
       
 <!--        
 **Shellinit2/Shellinit2** is a ✨   _special_ ✨ reposito     ry because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +27,9 @@ Here are some ideas to get you st a  rted:
       
       
     
-<h3> 🛠 &nbsp;Tech Stac k</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;             
+-  💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
