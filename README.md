@@ -29,12 +29,12 @@ Here are some ideas to get you st a  rted:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 -  💻 &nbsp;
-  ![Python](https://img.shields.io/badge/Python-276DC3?style=for-the-badge&logo=python)
-  ![C++](https://img.shields.io/badge/C++-276DC3?style=for-the-badge&logo=C%2B%2B)
-  ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=C)
-  ![Rust](https://img.shields.io/badge/Rust-276DC3?style=for-the-badge&logo=Rust)
-  ![Java](https://img.shields.io/badge/Java-276DC3?style=for-the-badge&logo=openjdk)
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 - 🤖 &nbsp;
   ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
@@ -42,7 +42,7 @@ Here are some ideas to get you st a  rted:
   ![SKlearn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=Scikitlearn)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
   ![Raspberry pi](https://img.shields.io/badge/-Raspberrypi-333333?style=flat&logo=raspberrypi)
-  ![Jetson Nano](https://img.shields.io/badge/NVIDIA-JetsonNano-76B900?style=for-the-badge&logo=nvidia)
+  ![Jetson Nano](https://img.shields.io/badge/-JetonNano-333333?style=flat&logo=nvidia)
   
 - ⚙️ &nbsp;
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
@@ -59,11 +59,11 @@ Here are some ideas to get you st a  rted:
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
-  ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte) 
+  ![VueJS](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=vue.js)
+  ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte) 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=Apache)
   ![Postgresql](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
 
