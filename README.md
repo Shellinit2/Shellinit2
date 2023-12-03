@@ -29,11 +29,11 @@ Here are some ideas to get you st a  rted:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 -  💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
-  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=openjdk)
+  ![Python](https://img.shields.io/badge/Python-276DC3?style=for-the-badge&logo=python)
+  ![C++](https://img.shields.io/badge/C++-276DC3?style=for-the-badge&logo=C%2B%2B)
+  ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=C)
+  ![Rust](https://img.shields.io/badge/Rust-276DC3?style=for-the-badge&logo=Rust)
+  ![Java](https://img.shields.io/badge/Java-276DC3?style=for-the-badge&logo=openjdk)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 - 🤖 &nbsp;
   ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
