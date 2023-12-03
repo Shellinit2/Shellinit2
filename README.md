@@ -23,7 +23,6 @@ Here are some ideas to get you st a  rted:
  - **Robotics** 
  - **Artificial Intelligence**
  - **Pen-testing**  
- - **Full Stack Development**
       
       
     
